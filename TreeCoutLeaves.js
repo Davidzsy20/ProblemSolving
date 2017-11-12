@@ -79,5 +79,4 @@ var Tree = function(value){
     treeWalk(this)
     return count;
   }
-  
-  
+    
