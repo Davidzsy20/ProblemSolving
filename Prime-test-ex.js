@@ -23,3 +23,4 @@ for (var i = start; i <= end; i++){
 }
 return res;
 }
+//Write a function that generates a list of all prime numbers in a user-specified range (inclusive).
