@@ -1,3 +1,5 @@
+
+//Prime Tester
 function primeTester(n) {
  if(n===1) {
    return false;
